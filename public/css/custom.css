@@ -1,0 +1,117 @@
+                .has-error .select2-selection {
+                    border: 1px solid #a94442;
+                    border-radius: 4px;
+                }
+                
+                input[type="text"] {
+                    border-radius: 0px !important;
+                    border-top: 0px !important;
+                    border-right: 0px !important;
+                    border-left: 0px !important;
+                    color: #2F318B !important;
+                    padding: 0px !important;
+                }
+                
+                [class^='select2'] {
+                    border-radius: 0px !important;
+                    border-top: 0px !important;
+                    border-right: 0px !important;
+                    border-left: 0px !important;
+                    color: #2F318B !important;
+                }
+                
+                .form-group label {
+                    color: #5C5C5C !important;
+                }
+                /* button:hover {
+    color: #fff;
+    background-color: #a4a4b6 !important;
+    border-color: #272687 !important;
+} */
+                
+                .select2-selection.required {
+                    border-color: red !important;
+                }
+                
+                .btn_custom {
+                    border-radius: 15px !important;
+                    border-color: none !important;
+                }
+                
+                body {
+                    padding-bottom: -1% !important;
+                }
+                
+                .content-page {
+                    margin-top: 0 !important;
+                }
+                /* .sub-header{
+    margin:0
+} */
+                
+                .header_title {
+                    font-family: 'Rubik', sans-serif;
+                    font-size: 28px !important;
+                    font-weight: 500px !important;
+                    color: #1A1B50;
+                }
+                
+                .sub-header {
+                    font-family: 'Rubik', sans-serif;
+                    font-size: 16px;
+                    font-weight: bold;
+                    color: #1A1B50;
+                }
+                
+                #top-wizard {
+                    /* width: 400px !important; */
+                    height: 181px !important;
+                    height: 210px !important;
+                    margin: auto !important;
+                }
+                
+                #top-wizard img {
+                    width: 112px;
+                    height: 112px;
+                }
+                
+                .gambar {
+                    width: 112px;
+                    margin: auto !important;
+                    margin-top: -2px;
+                }
+                
+                .container {
+                    padding-right: 0px !important;
+                    padding-left: 0px !important;
+                    min-height: 655px !important;
+                    max-height: 960px !important;
+                }
+                
+                .select2-container--default .select2-selection--single .select2-selection__rendered {
+                    color: #444;
+                    line-height: 28px;
+                    border: none !important;
+                    margin-left: -8px !important;
+                    /* color: #444!important; */
+                }
+                /* .form-control input {
+                    padding: 0px !important;
+                } */
+                
+                .select2-container--default .select2-selection--single {
+                    background-color: #fff;
+                    border-bottom: 1px solid #dee2e6 !important;
+                }
+                
+                .select2-container--default .select2-selection--single .select2-selection__placeholder {
+                    color: #999 !important;
+                }
+                
+                .select2-container {
+                    width: 100% !important;
+                }
+                
+                .parsley-length {
+                    color: red !important;
+                }
